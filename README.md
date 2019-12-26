@@ -30,3 +30,13 @@ Allowed Mimetypes
 ```php 
  $this->mimeTypes=array('image/png','image/jpeg','image/jpeg','image/gif','application/xml','application/pdf','application/vnd.ms-excel');
 ```
+
+Roadmap
+```html
+Image-Resize
+Image-Watermark
+Image-Thumbs
+...
+```
+Rest of these I am open to new ideas
+At the end you can freely use this class
